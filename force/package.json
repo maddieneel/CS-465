@@ -1,8 +1,6 @@
 {
-  "name": "travlr",
+  "name": "force",
   "version": "0.0.0",
-  "description": "Travlr Getaways",
-  "author": "SNHU MN",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
